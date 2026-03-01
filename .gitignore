@@ -1,0 +1,12 @@
+.venv
+.env
+__pycache__
+archive
+infrastructure
+data
+
+.pytest_cache
+data
+terraform.tfstate
+modelrf.pkl
+machine learning/clean_jobs2.csv

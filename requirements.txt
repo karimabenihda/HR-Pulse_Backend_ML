@@ -1,0 +1,45 @@
+# matplotlib
+# spacy==3.7.2
+# en-core-web-sm==3.7.1
+# numpy==1.24.4
+numpy
+fastapi 
+uvicorn 
+sqlalchemy 
+pyodbc 
+# pandas==2.0.3
+pandas
+# scikit-learn 
+# sqlalchemy 
+pyodbc
+azure-ai-textanalytics 
+python-dotenv 
+pytest 
+ruff 
+opentelemetry-sdk 
+opentelemetry-instrumentation-fastapi 
+opentelemetry-exporter-otlp
+
+# nltk
+# sentence_transformers
+
+# ppaire de region region rregion 
+# infra physic 
+# gestion de gouvernance
+# ressource: aya haja t9ed tcreiha f azure
+# groue de ressource container bzzf (apps db vm) les rss y9edo ykono mfr9in f aya blasa  grpo f9ent w rss f9ent
+# gestion group de resource = abbonement whda
+# group admin gerer les abbonement
+# aya haja mt3el9a bkhtha
+# aboo->gr rss-> rss
+# region dispo:
+# azure ress manager ARM: chef orchestration
+
+# zone dispo: physique l7jer 
+# region azure: bzzf zone
+
+    # "sentence-transformers>=5.2.3",
+    # "seaborn>=0.13.2",
+    # "scikit-learn>=1.8.0",
+    # "passlib[bcrypt]>=1.7.4",
+    # "matplotlib>=3.10.8",
